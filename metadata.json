@@ -1,0 +1,6 @@
+{
+  "name": "Garage Auto El Haji - Gestion Stock & Atelier",
+  "description": "Plateforme professionnelle d'administration, gestion des pièces de rechange, lubrifiants, caisse POS et atelier mécanique pour Garage Auto El Haji à Tanger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
